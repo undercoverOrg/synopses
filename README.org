@@ -1,0 +1,10 @@
+#+author: unenSCRIBE
+#+html: <p align="center">
+#+html:     <img src="https://img.shields.io/github/last-commit/unenSCRIBE/school">
+#+html:     <img src="https://img.shields.io/github/repo-size/unenSCRIBE/school">
+#+html: </p>
+
+* Конспекты
+Этот репозиторий служит для хранения конспектов. Конспекты могут находиться в двух папках:
++ в =school/= (конспекты для школы)
++ в =guides/= (конспекты по разным внешкольным темам)
