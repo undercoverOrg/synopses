@@ -1,5 +1,5 @@
 #+title: Arduino handbook
-#+author: unenSCRIBE
+#+author: undercover
 
 * Cодержание :toc:
 - [[#источники][Источники]]

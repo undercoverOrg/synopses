@@ -1,5 +1,5 @@
 #+TITLE: Всеобщая история
-#+AUTHOR: unenSCRIBE
+#+AUTHOR: undercover
 
 * Содержание :toc:
 - [[#ближний-восток][Ближний Восток]]
