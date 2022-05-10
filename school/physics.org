@@ -48,7 +48,7 @@
 + Внутренняя энергия - сумма кинетических и потенциальных энергий
   + =U=, Джоуль
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}U=E_k&plus;E_p" title="https://latex.codecogs.com/png.image?\LARGE \dpi{110}\bg{white}U=E_k+E_p" /> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}U=E_k&plus;E_p"> </p>
 
 ** Теплопередача
 + Процесс изменения внутренней энергии без совершения механической работы называется теплопередачей
@@ -58,13 +58,13 @@
 + Количество теплоты — энергия, которую получает или теряет тело при теплопередаче
   + =Q=, Джоуль
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}Q=cm\Delta&space;t=cm(t_2-t_1)" title="https://latex.codecogs.com/png.image?\LARGE \dpi{110}\bg{white}Q=cm\Delta t=cm(t_2-t_1)" /> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}Q=cm\Delta&space;t=cm(t_2-t_1)"> </p>
 
 ** Удельная теплоемкость
 + Удельная теплоемкость - теплота, необходимая для нагревания 1кг вещества на 1°C
   + =c=, Джоуль/кг*°C
 
-#+html: <p align="center"> <img src="./formulas/SpecificHeat.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}c=\frac{Q}{m\Delta&space;t}"> </p>
 
 ** Сгорание топлива
 *** Теплота сгорания топлива
@@ -75,14 +75,14 @@
 + Удельная сгорания топлива - количество теплоты, которое выделяется при полном сгорании 1кг топлива
   + =q=, Джоуль/кг
 
-#+html: <p align="center"> <img src="./formulas/HeatOfCombusting.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}Q=qm&space;\\q=\frac{Q}{m}"> </p>
 
 * Изменение агрегатного состояния вещества
 ** Удельная теплота плавления
 + Удельная теплота плавления - количество теплоты, которое необходимо для плавления 1кг вещества при температуре плавления
   + =λ=, Джоуль/кг
 
-#+html: <p align="center"> <img src="./formulas/SpecificHeatOfMelting.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}\lambda=\frac{Q}{m}"> </p>
 
 ** Типы парообразования
 *** Испарение
@@ -99,20 +99,20 @@
 + Удельная теплота парообразования - это количество теплоты, которое необходимо для превращения 1кг жидкости в пар при температуре кипения
   + =L=, Джоуль/кг
 
-#+html: <p align="center"> <img src="./formulas/SpecificHeatOfVaporization.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}L=\frac{Q}{m}"> </p>
 
 ** Влажность воздуха
 *** Абсолютная влажность
 + Абсолютная влажность - масса водяного пара в 1м^{3} воздуха
   + =ρ=, г/м^{3}
 
-#+html: <p align="center"> <img src="./formulas/AbsoluteHumidity.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}\rho=\frac{m}{V}"> </p>
 
 *** Относительная влажность
 + Относительная влажность - это отношение плотности водяного пара в воздухе при данной температуры к плотности насыщенного пара при другой температуре, выраженное в процентах
   + =φ=
 
-#+html: <p align="center"> <img src="./formulas/SpecificHumidity.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}\phi=\frac{\rho}{\rho_0}\cdot100%"> </p>
 
 * Электричество
 
@@ -126,7 +126,7 @@
 + Элементарный заряд - абсолютное значение самого маленького электрического заряда
   + =e=, Кулон
 
-#+html: <p align="center"> <img src="./formulas/ElementaryCharge.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}e=1,6\cdot10^{-19}"> </p>
 
 ** Проводники
 + Проводники - вещества, через которые электрические заряды могут переходить от заряженного тела к незаряженному
@@ -139,7 +139,7 @@
 
 Формула 1 и 2 до соприкосновения, формула 3 - после:
 
-#+html: <p align="center"> <img src="./formulas/ElectrostaticInduction.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}q_1=-q_2\\q_1&plus;(-q_2)=0\\q'_1=0;\\q'_2=0;"> </p>
 
 ** Точечный заряд
 + Точечный заряд - заряд, размерами которого можно пренебречь
@@ -149,13 +149,13 @@
 Сила взаимодействия двух точечных зарядов в вакууме направлена вдоль прямой, соединяющей эти заряды, пропорциональна их величинам и обратно пропорциональна квадрату расстояния между ними. Она является силой притяжения, если знаки зарядов разные, и силой отталкивания, если эти знаки одинаковы.
 #+end_quote
 
-#+html: <p align="center"> <img src="./formulas/CoulonbLaw.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}F=k\frac{|q_1||q_2|}{r^2}\\\\k=9\cdot10^{-9}"> </p>
 
 ** Напряженность электрического поля
 + Напряженность электрического поля - соотношение силы, с которой поле действует на пробный заряд
   + =E=, Ньютон/Кулон
 
-#+html: <p align="center"> <img src="./formulas/IntensityOfField.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}E=\frac{F}{q}\\\\E=k\frac{q}{r^2}&space;\\\\F=qE&space;"> </p>
 
 * Электрический ток
 ** Электрический ток
@@ -174,19 +174,19 @@
 + Сила тока - величина электрического заряда, проходящего через поперечное сечение за одну секунду
   + =I=, Ампер
 
-#+html: <p align="center"> <img src="./formulas/CurrentStrength.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}I=\frac{q}{t}"> </p>
 
 ** Напряжение
 + Напряжение - работа, совершаемая при перемещении заряда между двумя точками цепи
   + =В=, Вольт
 
-#+html: <p align="center"> <img src="./formulas/Voltage.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}U=\frac{A}{q}"> </p>
 
 ** Сопротивление
 + Сопротивление - величина, выражающее свойство проводника препятствовать прохождению тока
   + =R=, Ом
 
-#+html: <p align="center"> <img src="./formulas/ElectricalResistance.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}R=\frac{U}{I}"> </p>
 
 ** Закон Ома
 
@@ -203,7 +203,7 @@
 Общее напряжение цепи последовательно соединенных проводников равно сумме напряжений на отдельных участках цепи
 #+end_quote
 
-#+html: <p align="center"> <img src="./formulas/SerialConnection.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}I_1=I_2=I\\U=U_1&plus;U_2"> </p>
 
 ** Параллельное соединение
 
@@ -215,13 +215,13 @@
 Сила тока в части цепи равна сумме сил токов в отдельных параллельно соединенных проводниках
 #+end_quote
 
-#+html: <p align="center"> <img src="./formulas/ParallelConnection.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}U_1=U_2=U\\I=I_1&plus;I_2"> </p>
 
 #+begin_quote
 Величина обратная общему сопротивлению параллельно соединенных проводников, равна сумме величин, обратных сопротивлениям отдельных проводников
 #+end_quote
 
-#+html: <p align="center"> <img src="./formulas/ParallelConnection2.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}R=\frac{R_1\cdot&space;R_2}{R_1&plus;R_2}&space;\\\\&space;R_p=\frac{R}{n}&space;"> </p>
 
 *R_{p} - общее сопротивление*
 
