@@ -48,7 +48,7 @@
 + Внутренняя энергия - сумма кинетических и потенциальных энергий
   + =U=, Джоуль
 
-#+html: <p align="center"> <img src="./formulas/InternalEnergy.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}U=E_k&plus;E_p" title="https://latex.codecogs.com/png.image?\LARGE \dpi{110}\bg{white}U=E_k+E_p" /> </p>
 
 ** Теплопередача
 + Процесс изменения внутренней энергии без совершения механической работы называется теплопередачей
@@ -58,7 +58,7 @@
 + Количество теплоты — энергия, которую получает или теряет тело при теплопередаче
   + =Q=, Джоуль
 
-#+html: <p align="center"> <img src="./formulas/InternalEnergy.png"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}Q=cm\Delta&space;t=cm(t_2-t_1)" title="https://latex.codecogs.com/png.image?\LARGE \dpi{110}\bg{white}Q=cm\Delta t=cm(t_2-t_1)" /> </p>
 
 ** Удельная теплоемкость
 + Удельная теплоемкость - теплота, необходимая для нагревания 1кг вещества на 1°C
