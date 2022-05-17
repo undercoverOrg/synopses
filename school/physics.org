@@ -206,6 +206,7 @@
 #+end_quote
 
 #+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}I_1=I_2=I\\U=U_1&plus;U_2"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\dpi{110}\LARGE\dpi{110}\bg{white}R=nR"> </p>
 
 ** Параллельное соединение
 
@@ -218,6 +219,7 @@
 #+end_quote
 
 #+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}U_1=U_2=U\\I=I_1&plus;I_2"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\dpi{110}\LARGE\dpi{110}\bg{white}R=\frac{R}{n}"> </p>
 
 #+begin_quote
 Величина обратная общему сопротивлению параллельно соединенных проводников, равна сумме величин, обратных сопротивлениям отдельных проводников
@@ -233,10 +235,10 @@ n - количество проводников
 + Работа тока - произведение силы тока на его концах и на время прохождению тока.
   + =Дж=, Джоуль
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/svg.image?Q=A\\\\A=qU\\\\=&space;IUt\\\\=I^2Rt\\\\=\frac{U^2}{R}t\\\\=Pt\\=Nt\\=eNU\\=JtU\\&space;"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}Q=A\\\\A=qU\\\\=&space;IUt\\\\=I^2Rt\\\\=\frac{U^2}{R}t\\\\=Pt\\=Nt\\=eNU\\=JtU\\&space;"> </p>
 
 ** Мощность тока
 + Мощность тока - отношение работы ко времени, затраченному на ее выполнение.
   + =Вт=, Ватт
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/svg.image?P=\frac{A}{t}\\\\=IU\\=I^2R\\\\\frac{U^2}{R}"> </p>
+#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}P=\frac{A}{t}\\\\=IU\\=I^2R\\\\\frac{U^2}{R}"> </p>
