@@ -1,6 +1,5 @@
 #+title: Физика
 #+author: undercover
-#+tags: 539BF5
 
 * Содержание :toc:
 - [[#внутренняя-энергия-температура-тепловое-движение-молекул][Внутренняя энергия, температура, тепловое движение молекул]]
@@ -50,7 +49,9 @@
 + Внутренняя энергия - сумма кинетических и потенциальных энергий
   + =U=, Джоуль
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}U=E_k&plus;E_p"> </p>
+$$
+U = E_{k} + E_{p}
+$$
 
 ** Теплопередача
 + Процесс изменения внутренней энергии без совершения механической работы называется теплопередачей
@@ -60,13 +61,17 @@
 + Количество теплоты — энергия, которую получает или теряет тело при теплопередаче
   + =Q=, Джоуль
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}Q=cm\Delta&space;t=cm(t_2-t_1)"> </p>
+$$
+Q = cm\Delta t =cm(t_{2} = t_{1})
+$$
 
 ** Удельная теплоемкость
 + Удельная теплоемкость - теплота, необходимая для нагревания 1кг вещества на 1°C
   + =c=, Джоуль/кг*°C
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}c=\frac{Q}{m\Delta&space;t}"> </p>
+$$
+c = \frac{Q}{m\Delta t}
+$$
 
 ** Сгорание топлива
 *** Теплота сгорания топлива
@@ -77,14 +82,21 @@
 + Удельная сгорания топлива - количество теплоты, которое выделяется при полном сгорании 1кг топлива
   + =q=, Джоуль/кг
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}Q=qm&space;\\q=\frac{Q}{m}"> </p>
+$$
+Q = qm
+\\
+q = \frac{Q}{m}
+$$
+
 
 * Изменение агрегатного состояния вещества
 ** Удельная теплота плавления
 + Удельная теплота плавления - количество теплоты, которое необходимо для плавления 1кг вещества при температуре плавления
   + =λ=, Джоуль/кг
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}\lambda=\frac{Q}{m}"> </p>
+$$
+\lambda = \frac{Q}{m}
+$$
 
 ** Типы парообразования
 *** Испарение
@@ -101,20 +113,26 @@
 + Удельная теплота парообразования - это количество теплоты, которое необходимо для превращения 1кг жидкости в пар при температуре кипения
   + =L=, Джоуль/кг
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}L=\frac{Q}{m}"> </p>
+$$
+L = \frac{Q}{m}
+$$
 
 ** Влажность воздуха
 *** Абсолютная влажность
 + Абсолютная влажность - масса водяного пара в 1м^{3} воздуха
   + =ρ=, г/м^{3}
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}\rho=\frac{m}{V}"> </p>
+$$
+\rho = \frac{m}{V}
+$$
 
 *** Относительная влажность
 + Относительная влажность - это отношение плотности водяного пара в воздухе при данной температуры к плотности насыщенного пара при другой температуре, выраженное в процентах
   + =φ=
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}\phi=\frac{\rho}{\rho_0}\cdot100%"> </p>
+$$
+\phi = \frac{\rho}{\rho_{0}} \cdot 100\%
+$$
 
 * Электричество
 
@@ -128,7 +146,9 @@
 + Элементарный заряд - абсолютное значение самого маленького электрического заряда
   + =e=, Кулон
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}e=1,6\cdot10^{-19}"> </p>
+$$
+e = 1,6 \cdot 10^{-19}
+$$
 
 ** Проводники
 + Проводники - вещества, через которые электрические заряды могут переходить от заряженного тела к незаряженному
@@ -139,9 +159,19 @@
 ** Электростатическая индукция
 + Электростатическая индукция - электризация тел без соприкосновения
 
-Формула 1 и 2 до соприкосновения, формула 3 - после:
+Состояние до соприкосновения:
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}q_1=-q_2\\q_1&plus;(-q_2)=0\\q'_1=0;\\q'_2=0;"> </p>
+$$
+q_{1} = -q_{2}
+\\
+q_{1} + (-q_{2}) = 0
+$$
+
+И после:
+
+$$
+q'_{1} = 0; q'_{2} = 0;
+$$
 
 ** Точечный заряд
 + Точечный заряд - заряд, размерами которого можно пренебречь
@@ -151,7 +181,13 @@
 Сила взаимодействия двух точечных зарядов в вакууме направлена вдоль прямой, соединяющей эти заряды, пропорциональна их величинам и обратно пропорциональна квадрату расстояния между ними. Она является силой притяжения, если знаки зарядов разные, и силой отталкивания, если эти знаки одинаковы.
 #+end_quote
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}F=k\frac{|q_1||q_2|}{r^2}\\\\k=9\cdot10^{-9}"> </p>
+$$
+k = 9 \cdot 10^{-9}
+$$
+
+$$
+F = k\frac{|q_{1}||q_{2}|}{r^{2}}
+$$
 
 ** Напряженность электрического поля
 + Напряженность электрического поля - соотношение силы, с которой поле действует на пробный заряд
@@ -176,19 +212,25 @@
 + Сила тока - величина электрического заряда, проходящего через поперечное сечение за одну секунду
   + =I=, Ампер
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}I=\frac{q}{t}"> </p>
+$$
+I = \frac{q}{t}
+$$
 
 ** Напряжение
 + Напряжение - работа, совершаемая при перемещении заряда между двумя точками цепи
   + =В=, Вольт
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}U=\frac{A}{q}"> </p>
+$$
+U = \frac{A}{q}
+$$
 
 ** Сопротивление
 + Сопротивление - величина, выражающее свойство проводника препятствовать прохождению тока
   + =R=, Ом
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}R=\frac{U}{I}"> </p>
+$$
+R = \frac{U}{I}
+$$
 
 ** Закон Ома
 
@@ -205,8 +247,17 @@
 Общее напряжение цепи последовательно соединенных проводников равно сумме напряжений на отдельных участках цепи
 #+end_quote
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}I_1=I_2=I\\U=U_1&plus;U_2"> </p>
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\dpi{110}\LARGE\dpi{110}\bg{white}R=nR"> </p>
+$$
+I_{1} = I_{2} = I
+\\
+U = U_{1} + U_{2}
+$$
+
+При этом сопротивление вычисляется по формуле:
+
+$$
+R = nR
+$$
 
 ** Параллельное соединение
 
@@ -218,14 +269,22 @@
 Сила тока в части цепи равна сумме сил токов в отдельных параллельно соединенных проводниках
 #+end_quote
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}U_1=U_2=U\\I=I_1&plus;I_2"> </p>
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\dpi{110}\LARGE\dpi{110}\bg{white}R=\frac{R}{n}"> </p>
+$$
+U_1 = U_2 = U \\
+I = I_1 + I_2
+$$
 
 #+begin_quote
 Величина обратная общему сопротивлению параллельно соединенных проводников, равна сумме величин, обратных сопротивлениям отдельных проводников
 #+end_quote
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}R=\frac{R_1\cdot&space;R_2}{R_1&plus;R_2}&space;\\\\&space;R_p=\frac{R}{n}&space;"> </p>
+$$
+R = \frac{R_1 \cdot R_2}{R_1 + R_2}
+$$
+
+$$
+R_p = \frac{R}{n}
+$$
 
 *R_{p} - общее сопротивление*
 
@@ -235,10 +294,27 @@ n - количество проводников
 + Работа тока - произведение силы тока на его концах и на время прохождению тока.
   + =Дж=, Джоуль
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}Q=A\\\\A=qU\\\\=&space;IUt\\\\=I^2Rt\\\\=\frac{U^2}{R}t\\\\=Pt\\=Nt\\=eNU\\=JtU\\&space;"> </p>
+$$
+Q = A
+$$
+
+$$
+A = qU \\&= IUt \\
+&= I^2Rt \\
+&= \frac{U^2}{R}t \\
+&= Pt \\
+&= Nt \\
+&= eNU \\
+&= JtU
+$$
 
 ** Мощность тока
 + Мощность тока - отношение работы ко времени, затраченному на ее выполнение.
   + =Вт=, Ватт
 
-#+html: <p align="center"> <img src="https://latex.codecogs.com/png.image?\LARGE&space;\dpi{110}\bg{white}P=\frac{A}{t}\\\\=IU\\=I^2R\\\\\frac{U^2}{R}"> </p>
+$$
+P = \frac{A}{t} \\
+&= IU \\
+&= I^2R \\
+&= \frac{U^2}{R}
+$$
