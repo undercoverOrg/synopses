@@ -309,7 +309,23 @@ Q = A
 $$
 
 $$
-A = qU = IUt = I^2Rt = \frac{U^2}{R}t = Pt = Nt = eNU = JtU
+A = qU
+$$
+
+$$
+= IUt
+$$
+
+$$
+= I^2Rt
+$$
+
+$$
+= \frac{U^2}{R}t
+$$
+
+$$
+= Pt = Nt = eNU = JtU
 $$
 
 ** Мощность тока
@@ -317,5 +333,16 @@ $$
   + =Вт=, Ватт
 
 $$
-P = \frac{A}{t} = IU = I^2R = \frac{U^2}{R} 
+P = \frac{A}{t} $$
+
+$$
+= IU
+$$
+
+$$
+= I^2R
+$$
+
+$$
+= \frac{U^2}{R}
 $$
