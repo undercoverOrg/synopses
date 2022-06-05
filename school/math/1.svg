@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150.8125mm"
+   height="23.567396mm"
+   viewBox="0 0 150.8125 23.567396"
+   version="1.1"
+   id="svg21"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <g
+     id="layer1"
+     transform="translate(-2.6458335,-43.778801)">
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke-width:1.40835;stroke-linecap:round;stroke-dasharray:none"
+       id="rect1185"
+       width="150.8125"
+       height="23.567396"
+       x="2.6458335"
+       y="43.778801"
+       ry="5.8918505" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10.118291,58.208334 H 147.70161"
+       id="path140" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-dasharray:none"
+       id="circle983"
+       cx="148.16667"
+       cy="58.208332"
+       r="2.6458333" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:1.32292;stroke-linecap:round;stroke-dasharray:none"
+       id="path981"
+       cx="10.583333"
+       cy="58.208332"
+       r="2.6458333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1771px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.354428"
+       x="4.1677294"
+       y="55.058197"
+       id="text1039"><tspan
+         id="tspan1037"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.354428"
+         x="4.1677294"
+         y="55.058197">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1771px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.354428"
+       x="142.7825"
+       y="55.058197"
+       id="text1093"><tspan
+         id="tspan1091"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.354428"
+         x="142.7825"
+         y="55.058197">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.9746px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';stroke-width:0.274364"
+       x="77.342697"
+       y="55.455326"
+       id="text1101"><tspan
+         id="tspan1099"
+         style="stroke-width:0.274364"
+         x="77.342697"
+         y="55.455326">a</tspan></text>
+  </g>
+</svg>
